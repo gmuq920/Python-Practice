@@ -1,0 +1,626 @@
+[
+  {
+    "month": "2020-01",
+    "sales": {
+      "BYD": 85000,
+      "Geely": 120000,
+      "Changan": 110000,
+      "FAW-VW": 100000,
+      "SAIC-VW": 90000,
+      "Tesla China": 0,
+      "Others": 800000
+    }
+  },
+  {
+    "month": "2020-02",
+    "sales": {
+      "BYD": 70000,
+      "Geely": 90000,
+      "Changan": 80000,
+      "FAW-VW": 85000,
+      "SAIC-VW": 75000,
+      "Tesla China": 0,
+      "Others": 600000
+    }
+  },
+  {
+    "month": "2020-03",
+    "sales": {
+      "BYD": 95000,
+      "Geely": 125000,
+      "Changan": 115000,
+      "FAW-VW": 110000,
+      "SAIC-VW": 95000,
+      "Tesla China": 0,
+      "Others": 820000
+    }
+  },
+  {
+    "month": "2020-04",
+    "sales": {
+      "BYD": 90000,
+      "Geely": 130000,
+      "Changan": 120000,
+      "FAW-VW": 115000,
+      "SAIC-VW": 100000,
+      "Tesla China": 2000,
+      "Others": 830000
+    }
+  },
+  {
+    "month": "2020-05",
+    "sales": {
+      "BYD": 95000,
+      "Geely": 135000,
+      "Changan": 125000,
+      "FAW-VW": 120000,
+      "SAIC-VW": 105000,
+      "Tesla China": 4000,
+      "Others": 840000
+    }
+  },
+  {
+    "month": "2020-06",
+    "sales": {
+      "BYD": 100000,
+      "Geely": 140000,
+      "Changan": 130000,
+      "FAW-VW": 125000,
+      "SAIC-VW": 110000,
+      "Tesla China": 6000,
+      "Others": 850000
+    }
+  },
+  {
+    "month": "2020-07",
+    "sales": {
+      "BYD": 105000,
+      "Geely": 145000,
+      "Changan": 135000,
+      "FAW-VW": 130000,
+      "SAIC-VW": 115000,
+      "Tesla China": 8000,
+      "Others": 860000
+    }
+  },
+  {
+    "month": "2020-08",
+    "sales": {
+      "BYD": 110000,
+      "Geely": 150000,
+      "Changan": 140000,
+      "FAW-VW": 135000,
+      "SAIC-VW": 120000,
+      "Tesla China": 10000,
+      "Others": 870000
+    }
+  },
+  {
+    "month": "2020-09",
+    "sales": {
+      "BYD": 115000,
+      "Geely": 155000,
+      "Changan": 145000,
+      "FAW-VW": 140000,
+      "SAIC-VW": 125000,
+      "Tesla China": 12000,
+      "Others": 880000
+    }
+  },
+  {
+    "month": "2020-10",
+    "sales": {
+      "BYD": 120000,
+      "Geely": 160000,
+      "Changan": 150000,
+      "FAW-VW": 145000,
+      "SAIC-VW": 130000,
+      "Tesla China": 14000,
+      "Others": 890000
+    }
+  },
+  {
+    "month": "2020-11",
+    "sales": {
+      "BYD": 125000,
+      "Geely": 165000,
+      "Changan": 155000,
+      "FAW-VW": 150000,
+      "SAIC-VW": 135000,
+      "Tesla China": 16000,
+      "Others": 900000
+    }
+  },
+  {
+    "month": "2020-12",
+    "sales": {
+      "BYD": 130000,
+      "Geely": 170000,
+      "Changan": 160000,
+      "FAW-VW": 155000,
+      "SAIC-VW": 140000,
+      "Tesla China": 18000,
+      "Others": 910000
+    }
+  },
+  {
+    "month": "2021-01",
+    "sales": {
+      "BYD": 135000,
+      "Geely": 175000,
+      "Changan": 165000,
+      "FAW-VW": 160000,
+      "SAIC-VW": 145000,
+      "Tesla China": 20000,
+      "Others": 920000
+    }
+  },
+  {
+    "month": "2021-02",
+    "sales": {
+      "BYD": 120000,
+      "Geely": 160000,
+      "Changan": 150000,
+      "FAW-VW": 145000,
+      "SAIC-VW": 130000,
+      "Tesla China": 22000,
+      "Others": 880000
+    }
+  },
+  {
+    "month": "2021-03",
+    "sales": {
+      "BYD": 140000,
+      "Geely": 180000,
+      "Changan": 170000,
+      "FAW-VW": 165000,
+      "SAIC-VW": 150000,
+      "Tesla China": 24000,
+      "Others": 950000
+    }
+  },
+  {
+    "month": "2021-04",
+    "sales": {
+      "BYD": 145000,
+      "Geely": 185000,
+      "Changan": 175000,
+      "FAW-VW": 170000,
+      "SAIC-VW": 155000,
+      "Tesla China": 26000,
+      "Others": 960000
+    }
+  },
+  {
+    "month": "2021-05",
+    "sales": {
+      "BYD": 150000,
+      "Geely": 190000,
+      "Changan": 180000,
+      "FAW-VW": 175000,
+      "SAIC-VW": 160000,
+      "Tesla China": 28000,
+      "Others": 970000
+    }
+  },
+  {
+    "month": "2021-06",
+    "sales": {
+      "BYD": 155000,
+      "Geely": 195000,
+      "Changan": 185000,
+      "FAW-VW": 180000,
+      "SAIC-VW": 165000,
+      "Tesla China": 30000,
+      "Others": 980000
+    }
+  },
+  {
+    "month": "2021-07",
+    "sales": {
+      "BYD": 160000,
+      "Geely": 200000,
+      "Changan": 190000,
+      "FAW-VW": 185000,
+      "SAIC-VW": 170000,
+      "Tesla China": 32000,
+      "Others": 990000
+    }
+  },
+  {
+    "month": "2021-08",
+    "sales": {
+      "BYD": 165000,
+      "Geely": 205000,
+      "Changan": 195000,
+      "FAW-VW": 190000,
+      "SAIC-VW": 175000,
+      "Tesla China": 34000,
+      "Others": 1000000
+    }
+  },
+  {
+    "month": "2021-09",
+    "sales": {
+      "BYD": 170000,
+      "Geely": 210000,
+      "Changan": 200000,
+      "FAW-VW": 195000,
+      "SAIC-VW": 180000,
+      "Tesla China": 36000,
+      "Others": 1010000
+    }
+  },
+  {
+    "month": "2021-10",
+    "sales": {
+      "BYD": 175000,
+      "Geely": 215000,
+      "Changan": 205000,
+      "FAW-VW": 200000,
+      "SAIC-VW": 185000,
+      "Tesla China": 38000,
+      "Others": 1020000
+    }
+  },
+  {
+    "month": "2021-11",
+    "sales": {
+      "BYD": 180000,
+      "Geely": 220000,
+      "Changan": 210000,
+      "FAW-VW": 205000,
+      "SAIC-VW": 190000,
+      "Tesla China": 40000,
+      "Others": 1030000
+    }
+  },
+  {
+    "month": "2021-12",
+    "sales": {
+      "BYD": 185000,
+      "Geely": 225000,
+      "Changan": 215000,
+      "FAW-VW": 210000,
+      "SAIC-VW": 195000,
+      "Tesla China": 42000,
+      "Others": 1040000
+    }
+  },
+  {
+    "month": "2022-01",
+    "sales": {
+      "BYD": 190000,
+      "Geely": 230000,
+      "Changan": 220000,
+      "FAW-VW": 215000,
+      "SAIC-VW": 200000,
+      "Tesla China": 44000,
+      "Others": 1050000
+    }
+  },
+  {
+    "month": "2022-02",
+    "sales": {
+      "BYD": 175000,
+      "Geely": 215000,
+      "Changan": 205000,
+      "FAW-VW": 200000,
+      "SAIC-VW": 185000,
+      "Tesla China": 46000,
+      "Others": 1020000
+    }
+  },
+  {
+    "month": "2022-03",
+    "sales": {
+      "BYD": 195000,
+      "Geely": 235000,
+      "Changan": 225000,
+      "FAW-VW": 220000,
+      "SAIC-VW": 205000,
+      "Tesla China": 48000,
+      "Others": 1070000
+    }
+  },
+  {
+    "month": "2022-04",
+    "sales": {
+      "BYD": 200000,
+      "Geely": 240000,
+      "Changan": 230000,
+      "FAW-VW": 225000,
+      "SAIC-VW": 210000,
+      "Tesla China": 50000,
+      "Others": 1080000
+    }
+  },
+  {
+    "month": "2022-05",
+    "sales": {
+      "BYD": 205000,
+      "Geely": 245000,
+      "Changan": 235000,
+      "FAW-VW": 230000,
+      "SAIC-VW": 215000,
+      "Tesla China": 52000,
+      "Others": 1090000
+    }
+  },
+  {
+    "month": "2022-06",
+    "sales": {
+      "BYD": 210000,
+      "Geely": 250000,
+      "Changan": 240000,
+      "FAW-VW": 235000,
+      "SAIC-VW": 220000,
+      "Tesla China": 54000,
+      "Others": 1100000
+    }
+  },
+  {
+    "month": "2022-07",
+    "sales": {
+      "BYD": 215000,
+      "Geely": 255000,
+      "Changan": 245000,
+      "FAW-VW": 240000,
+      "SAIC-VW": 225000,
+      "Tesla China": 56000,
+      "Others": 1110000
+    }
+  },
+  {
+    "month": "2022-08",
+      "sales": {
+      "BYD": 220000,
+      "Geely": 260000,
+      "Changan": 250000,
+      "FAW-VW": 245000,
+      "SAIC-VW": 230000,
+      "Tesla China": 58000,
+      "Others": 1120000
+    }
+  },
+  {
+    "month": "2022-09",
+    "sales": {
+      "BYD": 225000,
+      "Geely": 265000,
+      "Changan": 255000,
+      "FAW-VW": 250000,
+      "SAIC-VW": 235000,
+      "Tesla China": 60000,
+      "Others": 1130000
+    }
+  },
+  {
+    "month": "2022-10",
+    "sales": {
+      "BYD": 230000,
+      "Geely": 270000,
+      "Changan": 260000,
+      "FAW-VW": 255000,
+      "SAIC-VW": 240000,
+      "Tesla China": 62000,
+      "Others": 1140000
+    }
+  },
+  {
+    "month": "2022-11",
+    "sales": {
+      "BYD": 235000,
+      "Geely": 275000,
+      "Changan": 265000,
+      "FAW-VW": 260000,
+      "SAIC-VW": 245000,
+      "Tesla China": 64000,
+      "Others": 1150000
+    }
+  },
+  {
+    "month": "2022-12",
+    "sales": {
+      "BYD": 240000,
+      "Geely": 280000,
+      "Changan": 270000,
+      "FAW-VW": 265000,
+      "SAIC-VW": 250000,
+      "Tesla China": 66000,
+      "Others": 1160000
+    }
+  },
+  {
+    "month": "2023-01",
+    "sales": {
+      "BYD": 245000,
+      "Geely": 285000,
+      "Changan": 275000,
+      "FAW-VW": 270000,
+      "SAIC-VW": 255000,
+      "Tesla China": 68000,
+      "Others": 1170000
+    }
+  },
+  {
+    "month": "2023-02",
+    "sales": {
+      "BYD": 230000,
+      "Geely": 270000,
+      "Changan": 260000,
+      "FAW-VW": 255000,
+      "SAIC-VW": 240000,
+      "Tesla China": 70000,
+      "Others": 1150000
+    }
+  },
+  {
+    "month": "2023-03",
+    "sales": {
+      "BYD": 250000,
+      "Geely": 290000,
+      "Changan": 280000,
+      "FAW-VW": 275000,
+      "SAIC-VW": 260000,
+      "Tesla China": 72000,
+      "Others": 1180000
+    }
+  },
+  {
+    "month": "2023-04",
+    "sales": {
+      "BYD": 255000,
+      "Geely": 295000,
+      "Changan": 285000,
+      "FAW-VW": 280000,
+      "SAIC-VW": 265000,
+      "Tesla China": 74000,
+      "Others": 1190000
+    }
+  },
+  {
+    "month": "2023-05",
+    "sales": {
+      "BYD": 260000,
+      "Geely": 300000,
+      "Changan": 290000,
+      "FAW-VW": 285000,
+      "SAIC-VW": 270000,
+      "Tesla China": 76000,
+      "Others": 1200000
+    }
+  },
+  {
+    "month": "2023-06",
+    "sales": {
+      "BYD": 265000,
+      "Geely": 305000,
+      "Changan": 295000,
+      "FAW-VW": 290000,
+      "SAIC-VW": 275000,
+      "Tesla China": 78000,
+      "Others": 1210000
+    }
+  },
+  {
+    "month": "2023-07",
+    "sales": {
+      "BYD": 270000,
+      "Geely": 310000,
+      "Changan": 300000,
+      "FAW-VW": 295000,
+      "SAIC-VW": 280000,
+      "Tesla China": 80000,
+      "Others": 1220000
+    }
+  },
+  {
+    "month": "2023-08",
+      "sales": {
+      "BYD": 275000,
+      "Geely": 315000,
+      "Changan": 305000,
+      "FAW-VW": 300000,
+      "SAIC-VW": 285000,
+      "Tesla China": 82000,
+      "Others": 1230000
+    }
+  },
+  {
+    "month": "2023-09",
+    "sales": {
+      "BYD": 280000,
+      "Geely": 320000,
+      "Changan": 310000,
+      "FAW-VW": 305000,
+      "SAIC-VW": 290000,
+      "Tesla China": 84000,
+      "Others": 1240000
+    }
+  },
+  {
+    "month": "2023-10",
+    "sales": {
+      "BYD": 285000,
+      "Geely": 325000,
+      "Changan": 315000,
+      "FAW-VW": 310000,
+      "SAIC-VW": 295000,
+      "Tesla China": 86000,
+      "Others": 1250000
+    }
+  },
+  {
+    "month": "2023-11",
+    "sales": {
+      "BYD": 290000,
+      "Geely": 330000,
+      "Changan": 320000,
+      "FAW-VW": 315000,
+      "SAIC-VW": 300000,
+      "Tesla China": 88000,
+      "Others": 1260000
+    }
+  },
+  {
+    "month": "2023-12",
+    "sales": {
+      "BYD": 295000,
+      "Geely": 335000,
+      "Changan": 325000,
+      "FAW-VW": 320000,
+      "SAIC-VW": 305000,
+      "Tesla China": 90000,
+      "Others": 1270000
+    }
+  },
+  {
+    "month": "2024-01",
+    "sales": {
+      "BYD": 300000,
+      "Geely": 340000,
+      "Changan": 330000,
+      "FAW-VW": 325000,
+      "SAIC-VW": 310000,
+      "Tesla China": 92000,
+      "Others": 1280000
+    }
+  },
+  {
+    "month": "2024-02",
+    "sales": {
+      "BYD": 280000,
+      "Geely": 320000,
+      "Changan": 310000,
+      "FAW-VW": 305000,
+      "SAIC-VW": 290000,
+      "Tesla China": 94000,
+      "Others": 1250000
+    }
+  },
+  {
+    "month": "2024-03",
+    "sales": {
+      "BYD": 310000,
+      "Geely": 350000,
+      "Changan": 340000,
+      "FAW-VW": 335000,
+      "SAIC-VW": 320000,
+      "Tesla China": 96000,
+      "Others": 1300000
+    }
+  },
+  {
+    "month": "2024-04",
+    "sales": {
+      "BYD": 320000,
+      "Geely": 360000,
+      "Changan": 350000,
+      "FAW-VW": 345000,
+      "SAIC-VW": 330000,
+      "Tesla China": 98000,
+      "Others": 1310000
+    }
+  }
+]
